@@ -1,0 +1,17 @@
+.Machine{
+    background-color : teal;
+    border : 1px solid violet;
+    margin : 1rem;
+}
+
+.win,.loose{
+    color : white;
+}
+
+.win{
+    background-color: green;
+}
+
+.loose{
+    background-color : red;
+}
